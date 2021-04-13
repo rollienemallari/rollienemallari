@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rollienemallari
 - 👀 I’m interested in health and wellness, consumer health
 - 🌱 I’m currently learning Github!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...
 
 <!---
